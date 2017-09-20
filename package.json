@@ -1,0 +1,19 @@
+{
+  "name": "formcarry",
+  "version": "1.0.0",
+  "description": "Node.js Client Library for the Formcarry Web API Edit && Add topics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/formcarry/formcarry-nodejs.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/formcarry/formcarry-nodejs/issues"
+  },
+  "homepage": "https://github.com/formcarry/formcarry-nodejs#readme"
+}
